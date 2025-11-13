@@ -1,5 +1,7 @@
 package com.gestpoint.gestpoint_api.domain;
 
+import com.gestpoint.gestpoint_api.dto.LoginRequestDTO;
+import com.gestpoint.gestpoint_api.dto.RegisterRequestDTO;
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;
 import lombok.Getter;
